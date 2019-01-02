@@ -1,0 +1,27 @@
+body{
+    background-image: url(img/tail.jpg);
+}
+.container{
+    width: 1000px;
+    margin: 57px auto;
+    position: relative;
+}
+.layer1, .layer2{
+    position: absolute;
+    top:0px;
+}
+.layer1{
+    left: -100px;
+}
+.layer2{
+    position: absolute;
+    top:0px;   
+}
+.layer3{
+    position: absolute;
+    top:0px;
+}
+.layer4{
+    position: absolute;
+    top:0px; 
+}
